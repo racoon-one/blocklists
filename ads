@@ -1,3 +1,4 @@
+127.0.0.1 www.maldini.xyz
 127.0.0.1 maldini.xyz
 127.0.0.1 s.maldini.xyz
 127.0.0.1 click.a-ads.com
